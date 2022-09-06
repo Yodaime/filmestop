@@ -28,4 +28,4 @@ Follow the steps below
 $ npm install
 
 # Start the client
-$ npm start
+$ npm run dev
