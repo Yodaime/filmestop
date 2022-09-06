@@ -19,7 +19,7 @@ Requirements
 
 Clone the project and access the folder
 
-$ git clone https://github.com/Yodaime/filmestop.git && cd pontofilmes
+$ git clone https://github.com/Yodaime/filmestop.git && cd filmestop
 
 Follow the steps below
 
